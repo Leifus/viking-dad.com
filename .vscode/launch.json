@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/Users/leifharstad/Downloads/Jesper - template package/UPLOAD/jesper/index.html"
+            "file": "/Users/leifharstad/Development/viking-dad.com/index.html"
         }
     ]
 }
