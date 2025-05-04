@@ -1,0 +1,19 @@
+:root {
+    /* General */
+    --tt-main-color: #aa0000;
+}
+
+.tt-ptr-prel-image {
+    max-height: 72px;
+    /* You may need to change the img height to match your logo type! */
+    opacity: .9;
+    /* You may need to change the opacity as well! */
+}
+
+.text-yellow {
+    color: #D4AA00 !important;
+}
+
+.font-runic {
+    font-family: var(--tt-runic-font) !important;
+}
